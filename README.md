@@ -28,6 +28,9 @@ New reports and rules will be added monthly and am working diligently to produce
 
 Contributions are welcome! If you have improvements, additional rules, or analysis reports to share, please feel free to submit a pull request or open an issue with your proposals.
 
+## Verify Download Integrity
+
+For your convenience, I have provided hashes to verify the integrity of your downloads. Please refer to the [Wiki](wiki) page for the list of hashes associated with each report.
 
 ## Disclaimer
 
