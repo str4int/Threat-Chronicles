@@ -30,7 +30,7 @@ Contributions are welcome! If you have improvements, additional rules, or analys
 
 ## Verify Download Integrity
 
-For your convenience, I have provided hashes to verify the integrity of your downloads. Please refer to the [Wiki](wiki) page for the list of hashes associated with each report.
+For your convenience, I have provided hashes to verify the integrity of your downloads. Please refer to the [Wiki](https://github.com/str4int/Threat-Chronicles/wiki) page for the list of hashes associated with each report.
 
 ## Disclaimer
 
